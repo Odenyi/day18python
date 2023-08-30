@@ -13,6 +13,7 @@ for color in colors:
 tim =t.Turtle()
 t.colormode(255)
 tim.penup()
+
 tim.speed("fastest")
 tim.hideturtle()
 tim.setheading(227)

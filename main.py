@@ -9,7 +9,7 @@ for color in colors:
     g = color.rgb.g
     b = color.rgb.b
     rgb_color.append((r,g,b))
-print(rgb_color)
+
 tim =t.Turtle()
 t.colormode(255)
 tim.penup()
